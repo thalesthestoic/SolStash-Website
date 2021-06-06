@@ -1,0 +1,184 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: auto;
+  position: relative;
+  flex-direction: column;
+  min-width: 0;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.box__zU2W1 {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 1px;
+  min-width: 0;
+  flex-shrink: 0;
+  border: 1px solid rgb(234, 234, 234) /* plasmic-token: -8k8HYw_bi31HY */;
+}
+.box__dgx9T {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  left: auto;
+  top: auto;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.box__dgx9T > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-top: calc(0px - 20px);
+  height: calc(100% + 20px);
+}
+.box__dgx9T > :global(.__wab_flex-container) > *,
+.box__dgx9T > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 20px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__dgx9T {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__dgx9T > :global(.__wab_flex-container) {
+    flex-direction: column;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 32px);
+    height: calc(100% + 32px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__dgx9T > :global(.__wab_flex-container) > *,
+  .box__dgx9T > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+    margin-left: 0px;
+    margin-top: 32px;
+  }
+}
+.box__c7Pey {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  left: auto;
+  top: auto;
+}
+.box__c7Pey > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 32px);
+  width: calc(100% + 32px);
+}
+.box__c7Pey > :global(.__wab_flex-container) > *,
+.box__c7Pey > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 32px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__c7Pey {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__c7Pey > :global(.__wab_flex-container) {
+    flex-direction: column;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 32px);
+    height: calc(100% + 32px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__c7Pey > :global(.__wab_flex-container) > *,
+  .box__c7Pey > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+    margin-left: 0px;
+    margin-top: 32px;
+  }
+}
+.box__cmul {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  align-self: center;
+  flex-shrink: 0;
+}
+.box__cmul > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: calc(0px - 3px);
+  height: calc(100% + 3px);
+}
+.box__cmul > :global(.__wab_flex-container) > *,
+.box__cmul > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 3px;
+}
+.box__p2Gv9 {
+  position: relative;
+  font-weight: 700;
+  align-self: center;
+}
+.link__wGe3 {
+  position: relative;
+  color: #535353 /* plasmic-token: TcKD6WGv46onjd */;
+  align-self: center;
+}
+.root .link__wGe3:hover {
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+.link___0Gsef {
+  position: relative;
+  color: #535353 /* plasmic-token: TcKD6WGv46onjd */;
+  align-self: center;
+}
+.root .link___0Gsef:hover {
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+.link__vmoan {
+  position: relative;
+  color: #535353 /* plasmic-token: TcKD6WGv46onjd */;
+  align-self: center;
+}
+.root .link__vmoan:hover {
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+.link__betOe {
+  position: relative;
+  color: #535353 /* plasmic-token: TcKD6WGv46onjd */;
+  align-self: center;
+}
+.root .link__betOe:hover {
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+.box___43Ffy {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.box__rE1Ml {
+  position: relative;
+  text-align: center;
+}
+.box___6Bfja {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 1px;
+  min-width: 0;
+  flex-shrink: 0;
+  border: 1px solid rgb(234, 234, 234) /* plasmic-token: -8k8HYw_bi31HY */;
+}
