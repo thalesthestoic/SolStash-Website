@@ -140,7 +140,17 @@ function PlasmicHeader__RenderFunc(props: {
         {(hasVariant(globalVariants, "screen", "mobile") ? false : true) ? (
           <LinkButton
             className={classNames("__wab_instance", sty.linkButton__oCsX9)}
-            text={"Coming Soon"}
+            text={
+              <div
+                className={classNames(
+                  defaultcss.all,
+                  defaultcss.__wab_text,
+                  sty.box___6Tz9
+                )}
+              >
+                {"Coming Soon"}
+              </div>
+            }
             type={"solidBlack" as const}
           />
         ) : null}

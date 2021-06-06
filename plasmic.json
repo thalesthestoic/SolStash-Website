@@ -29,7 +29,8 @@
       "components": [],
       "icons": [],
       "images": [],
-      "projectApiToken": "nPw276qGsy9kISQCHrcRrsj3Y9Yva9TMyYKNUpoOMOHgRj1A51qOC6LMB2185QlA52K87n32oQJHSi5be9w"
+      "projectApiToken": "nPw276qGsy9kISQCHrcRrsj3Y9Yva9TMyYKNUpoOMOHgRj1A51qOC6LMB2185QlA52K87n32oQJHSi5be9w",
+      "jsBundleThemes": []
     },
     {
       "projectId": "geBadaQ9fZ99mVFF7H8pNR",
@@ -244,6 +245,19 @@
           "cssFilePath": "plasmic/simple_light_landing_page/PlasmicCta2.module.css",
           "scheme": "blackbox",
           "componentType": "component"
+        },
+        {
+          "id": "w68ESKotXW",
+          "name": "DApp",
+          "type": "managed",
+          "projectId": "geBadaQ9fZ99mVFF7H8pNR",
+          "renderModuleFilePath": "plasmic/simple_light_landing_page/PlasmicDApp.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page.tsx"
+          },
+          "cssFilePath": "plasmic/simple_light_landing_page/PlasmicDApp.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [
@@ -385,12 +399,6 @@
         "name": "Screen",
         "projectId": "geBadaQ9fZ99mVFF7H8pNR",
         "contextFilePath": "plasmic/simple_light_landing_page/PlasmicGlobalVariant__Screen.tsx"
-      },
-      {
-        "id": "cb2ad8O8BY",
-        "name": "Cta3",
-        "projectId": "geBadaQ9fZ99mVFF7H8pNR",
-        "contextFilePath": "plasmic/simple_light_landing_page/PlasmicGlobalVariant__Cta3.tsx"
       }
     ]
   },

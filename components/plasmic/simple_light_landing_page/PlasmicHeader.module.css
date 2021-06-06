@@ -55,6 +55,7 @@
 }
 .box__bBrQ {
   color: #06161f /* plasmic-token: o9aO20ZKa */;
+  height: auto;
 }
 .linkButton__hMnJw:global(.__wab_instance) {
   position: relative;
@@ -64,4 +65,7 @@
 }
 .linkButton__oCsX9:global(.__wab_instance) {
   position: relative;
+}
+.box___6Tz9 {
+  height: auto;
 }
