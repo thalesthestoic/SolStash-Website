@@ -245,19 +245,6 @@
           "cssFilePath": "plasmic/simple_light_landing_page/PlasmicCta2.module.css",
           "scheme": "blackbox",
           "componentType": "component"
-        },
-        {
-          "id": "w68ESKotXW",
-          "name": "DApp",
-          "type": "managed",
-          "projectId": "geBadaQ9fZ99mVFF7H8pNR",
-          "renderModuleFilePath": "plasmic/simple_light_landing_page/PlasmicDApp.tsx",
-          "importSpec": {
-            "modulePath": "../pages/new-page.tsx"
-          },
-          "cssFilePath": "plasmic/simple_light_landing_page/PlasmicDApp.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
         }
       ],
       "icons": [

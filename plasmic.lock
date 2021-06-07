@@ -212,16 +212,6 @@
           "checksum": "a2711c11482dbd96ff424aa215dabf9b"
         },
         {
-          "type": "renderModule",
-          "assetId": "w68ESKotXW",
-          "checksum": "a42cd7d6a2ef0d428c2c90a7e50be63e"
-        },
-        {
-          "type": "cssRules",
-          "assetId": "w68ESKotXW",
-          "checksum": "a42cd7d6a2ef0d428c2c90a7e50be63e"
-        },
-        {
           "assetId": "geBadaQ9fZ99mVFF7H8pNR",
           "type": "projectCss",
           "checksum": "2356cd5816ee823d4193787bbda7ff4d"
