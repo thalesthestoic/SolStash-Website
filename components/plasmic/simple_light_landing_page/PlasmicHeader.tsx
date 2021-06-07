@@ -123,7 +123,9 @@ function PlasmicHeader__RenderFunc(props: {
 
         <LinkButton
           className={classNames("__wab_instance", sty.linkButton__hMnJw)}
-          href={"https://docs.solstash.org" as const}
+          href={
+            "https://docs.solstash.org/solstash-ecosystem/tokenomics" as const
+          }
           text={
             <div
               className={classNames(
@@ -132,7 +134,7 @@ function PlasmicHeader__RenderFunc(props: {
                 sty.box__nNjcU
               )}
             >
-              {"Whitepaper"}
+              {"SolStash Token"}
             </div>
           }
           type={"small" as const}
