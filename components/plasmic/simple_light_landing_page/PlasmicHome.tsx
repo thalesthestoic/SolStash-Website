@@ -213,7 +213,7 @@ function PlasmicHome__RenderFunc(props: {
                             sty.box__et90R
                           )}
                         >
-                          {"Trusted Setup (MPC)"}
+                          {"Trusted Setup Ceremony"}
                         </div>
                       </Bullet>
 
@@ -257,6 +257,7 @@ function PlasmicHome__RenderFunc(props: {
                         />
 
                         <LinkButton
+                          href={"https://t.me/SolStash" as const}
                           text={"Join Telegram"}
                           type={"outlineBlack" as const}
                         />

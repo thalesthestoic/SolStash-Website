@@ -115,7 +115,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link__wGe3
               )}
               component={Link}
-              href={"#" as const}
+              href={"https://twitter.com/SolStashOrg" as const}
               platform={"nextjs"}
             >
               {"Twitter"}
@@ -128,7 +128,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link___0Gsef
               )}
               component={Link}
-              href={"#" as const}
+              href={"https://t.me/SolStash" as const}
               platform={"nextjs"}
             >
               {"Telegram"}

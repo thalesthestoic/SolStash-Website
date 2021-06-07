@@ -106,7 +106,7 @@ function PlasmicHeader__RenderFunc(props: {
       >
         <LinkButton
           className={classNames("__wab_instance", sty.linkButton__dKmht)}
-          href={"/" as const}
+          href={"https://docs.solstash.org" as const}
           text={
             <div
               className={classNames(
@@ -123,6 +123,7 @@ function PlasmicHeader__RenderFunc(props: {
 
         <LinkButton
           className={classNames("__wab_instance", sty.linkButton__hMnJw)}
+          href={"https://docs.solstash.org" as const}
           text={
             <div
               className={classNames(

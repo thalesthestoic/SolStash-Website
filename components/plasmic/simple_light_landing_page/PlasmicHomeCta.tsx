@@ -117,7 +117,18 @@ function PlasmicHomeCta__RenderFunc(props: {
         >
           <LinkButton
             className={classNames("__wab_instance", sty.linkButton__fwsj)}
-            text={"Telegram"}
+            href={"https://t.me/SolStash" as const}
+            text={
+              <div
+                className={classNames(
+                  defaultcss.all,
+                  defaultcss.__wab_text,
+                  sty.box__xqT1N
+                )}
+              >
+                {"Telegram"}
+              </div>
+            }
             type={"outlineBlack2" as const}
           />
 

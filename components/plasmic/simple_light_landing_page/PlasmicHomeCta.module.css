@@ -93,6 +93,11 @@
 .linkButton__fwsj:global(.__wab_instance) {
   position: relative;
 }
+.box__xqT1N {
+  height: auto;
+  width: auto;
+  display: inline-block;
+}
 .linkButton__ciEat:global(.__wab_instance) {
   position: relative;
 }
