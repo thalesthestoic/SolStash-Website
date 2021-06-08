@@ -265,16 +265,18 @@ function PlasmicHome__RenderFunc(props: {
                     </p.Stack>
 
                     <div className={classNames(defaultcss.all, sty.box__wbxQx)}>
-                      <img
-                        data-plasmic-name={"img"}
-                        data-plasmic-override={overrides.img}
-                        alt={""}
-                        className={classNames(defaultcss.img, sty.img)}
-                        role={"img"}
-                        src={
-                          "/plasmic/simple_light_landing_page/images/solstashTranspng.png"
-                        }
-                      />
+                      {true ? (
+                        <img
+                          data-plasmic-name={"img"}
+                          data-plasmic-override={overrides.img}
+                          alt={""}
+                          className={classNames(defaultcss.img, sty.img)}
+                          role={"img"}
+                          src={
+                            "/plasmic/simple_light_landing_page/images/solstashTranspng.png"
+                          }
+                        />
+                      ) : null}
                     </div>
                   </p.Stack>
                 </React.Fragment>

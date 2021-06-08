@@ -134,6 +134,7 @@ function PlasmicHomeCta__RenderFunc(props: {
 
           <LinkButton
             className={classNames("__wab_instance", sty.linkButton__ciEat)}
+            href={"https://github.com/thalesthestoic" as const}
             text={"Github"}
             type={"outlineBlack2" as const}
           />

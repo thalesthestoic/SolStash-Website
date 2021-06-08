@@ -141,7 +141,7 @@ function PlasmicFooter__RenderFunc(props: {
                 sty.link__vmoan
               )}
               component={Link}
-              href={"#" as const}
+              href={"https://github.com/thalesthestoic" as const}
               platform={"nextjs"}
             >
               {"Github"}
