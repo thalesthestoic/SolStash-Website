@@ -162,6 +162,15 @@
 .root .link__betOe:hover {
   color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
 }
+.link__zlTo4 {
+  position: relative;
+  color: #535353 /* plasmic-token: TcKD6WGv46onjd */;
+  align-self: center;
+  height: auto;
+}
+.root .link__zlTo4:hover {
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
 .box___43Ffy {
   display: flex;
   position: relative;

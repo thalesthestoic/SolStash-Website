@@ -157,7 +157,22 @@ function PlasmicFooter__RenderFunc(props: {
               href={"#" as const}
               platform={"nextjs"}
             >
-              {"dAPP"}
+              {"App"}
+            </p.PlasmicLink>
+
+            <p.PlasmicLink
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.link__zlTo4
+              )}
+              component={Link}
+              href={
+                "https://github.com/thalesthestoic/SolStash-Media-Kit" as const
+              }
+              platform={"nextjs"}
+            >
+              {"Media Kit"}
             </p.PlasmicLink>
           </p.Stack>
         </p.Stack>
